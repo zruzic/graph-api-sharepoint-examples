@@ -17,7 +17,7 @@ I have included the Postman collection JSON file (`GraphAPI.postman_collection.j
 
 ## Documentation
 
-Detailed API endpoint descriptions and request examples are available in the included HTML documentation (`GraphAPI - SharePoint-documentation.html`).
+Detailed API endpoint descriptions and request examples are available in the included HTML documentation (`Docs/GraphAPI - SharePoint-documentation.html`).
 
 ## Contributing
 
