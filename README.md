@@ -1,4 +1,5 @@
-# Graph API – SharePoint Online (Practical Examples Collection)
+# Graph API – SharePoint Online  
+### Practical Examples & Hands-On Guide for Devs & Admins
 
 This repository is a **personal, practical collection of working Microsoft Graph API examples for SharePoint Online**.
 
