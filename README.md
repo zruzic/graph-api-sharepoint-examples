@@ -19,3 +19,5 @@ Detailed API endpoint descriptions and request examples are available in the inc
 
 ## Contributing
 This is a personal collection, but suggestions and improvements are welcome via issues or pull requests.
+
+<img width="596" height="685" alt="GraphAPI-Online-SharePoint" src="https://github.com/user-attachments/assets/f59f6468-62dd-4a87-afe4-70d674e663cb" />
